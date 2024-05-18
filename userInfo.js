@@ -1,4 +1,4 @@
-// this function takes in an arrays of names and returns an array of objects with the original name, modified name, and index of the name in the original array
+// this function takes in an arrays of names and returns an array of objects with the original name, modified name, and index of the name in the original array.
 function createUserProfiles(names, modifiedNames) {
     let userProfiles = [];
     names.forEach((name, id) => {
